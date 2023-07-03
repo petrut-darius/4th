@@ -1,0 +1,15 @@
+
+
+.header{
+    width: 100%;
+    background-image:linear-gradient(  red, grey);
+    line-height: 3rem;
+}
+
+ul{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 2rem;
+    color: white;
+}
